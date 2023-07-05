@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity2">
+
+    <EditText
+        android:id="@+id/name"
+        android:hint="name"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+    <EditText
+        android:id="@+id/phone"
+        android:layout_margin="10dp"
+        android:hint="number"
+        android:layout_width="match_parent"
+        android:inputType="number"
+        android:layout_marginTop="6dp"
+        android:layout_height="wrap_content">
+
+    </EditText>
+    <EditText
+        android:id="@+id/address"
+        android:layout_margin="10dp"
+        android:hint="address"
+        android:inputType="text"
+        android:layout_marginTop="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="save"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="center"
+        >
+
+    </Button>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

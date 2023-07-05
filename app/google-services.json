@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802691997318",
+    "firebase_url": "https://exalted-point-391004-default-rtdb.firebaseio.com",
+    "project_id": "exalted-point-391004",
+    "storage_bucket": "exalted-point-391004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802691997318:android:2e732eb6fce38fa6953b07",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802691997318-58bse156fm3qcd46ehv4m9smm103rs6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm5UwgU4dxbe2agTRDr0BsFLZXkIyYZyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802691997318-58bse156fm3qcd46ehv4m9smm103rs6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
